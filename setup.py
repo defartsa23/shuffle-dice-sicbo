@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
-  name = 'Shuffle Dice Sicbo',         # How you named your package folder (MyLib)
-  packages = ['Shuffle Dice Sicbo'],   # Chose the same as "name"
+  name = 'sicbo',         # How you named your package folder (MyLib)
+  packages = ['sicbo'],   # Chose the same as "name"
   version = '1.0.0',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'This function will determine the results of shuffling the dice that will be used in the Sicbo game.',   # Give a short description about your library
