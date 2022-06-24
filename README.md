@@ -1,8 +1,8 @@
 # shuffle-dice-sicbo
 
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/sicbo)
-![PyPI](https://img.shields.io/pypi/v/sicbo)
-![GitHub](https://img.shields.io/github/license/defartsa23/shuffle-dice-sicbo)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/sicbo)](https://www.python.org/)
+[![PyPI](https://img.shields.io/pypi/v/sicbo)](https://pypi.org/project/sicbo/)
+[![GitHub](https://img.shields.io/github/license/defartsa23/shuffle-dice-sicbo)](https://opensource.org/licenses/MIT)
 
 What is sicbo?
 -------------
