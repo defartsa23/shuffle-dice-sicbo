@@ -1,7 +1,7 @@
 # shuffle-dice-sicbo
 
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/sicbo)](https://www.python.org/)
-[![PyPI](https://img.shields.io/pypi/v/sicbo)](https://pypi.org/project/sicbo/)
+[![PyPI](https://img.shields.io/pypi/v/sicboDice))](https://pypi.org/project/sicboDice/)
 [![GitHub](https://img.shields.io/github/license/defartsa23/shuffle-dice-sicbo)](https://opensource.org/licenses/MIT)
 
 What is sicbo?
@@ -11,7 +11,7 @@ This function will determine the results of shuffling the dice that will be used
 ## Install
 
 ```bash
-pip install sicbo
+pip install sicboDice
 ```
 
 ## Quick start
