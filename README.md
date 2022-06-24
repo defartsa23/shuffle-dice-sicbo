@@ -1,6 +1,6 @@
 # shuffle-dice-sicbo
 
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/sicbo)](https://www.python.org/)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/sicboDice)](https://www.python.org/)
 [![PyPI](https://img.shields.io/pypi/v/sicboDice))](https://pypi.org/project/sicboDice/)
 [![GitHub](https://img.shields.io/github/license/defartsa23/shuffle-dice-sicbo)](https://opensource.org/licenses/MIT)
 
