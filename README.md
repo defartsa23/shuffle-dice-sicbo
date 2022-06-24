@@ -18,7 +18,7 @@ pip install sicbo
 
 First of all, initialize:
 
-```typescript
+```python
 from sicbo import getDice
 
 result = getDice()
